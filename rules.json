@@ -1,0 +1,30 @@
+[
+  {
+    "id": "new_payee",
+    "field": "new_payee",
+    "equals": true,
+    "score": 20,
+    "reason": "new payee"
+  },
+  {
+    "id": "velocity",
+    "field": "velocity_alert",
+    "equals": true,
+    "score": 45,
+    "reason": "velocity"
+  },
+  {
+    "id": "geo_mismatch",
+    "field": "geo_mismatch",
+    "equals": true,
+    "score": 35,
+    "reason": "geo mismatch"
+  },
+  {
+    "id": "mfa_bypass",
+    "field": "mfa_bypass",
+    "equals": true,
+    "score": 60,
+    "reason": "mfa bypass"
+  }
+]

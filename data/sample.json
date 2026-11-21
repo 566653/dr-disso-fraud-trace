@@ -1,0 +1,11 @@
+[
+  {
+    "id": "synthetic-001",
+    "new_payee": true,
+    "velocity_alert": true
+  },
+  {
+    "id": "synthetic-002",
+    "note": "benign"
+  }
+]
